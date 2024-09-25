@@ -57,7 +57,6 @@ height_label.pack()
 weight_label = Label(root, text="Weight:")
 weight_label.pack()
 
-
 abilities_label = Label(root, text="Abilities:")
 abilities_label.pack()
 
