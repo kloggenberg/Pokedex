@@ -1,4 +1,4 @@
-package org.example;
+package pokedex.code;
 
 import java.awt.*;
 import java.awt.event.*;
